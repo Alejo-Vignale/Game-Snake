@@ -1,6 +1,16 @@
 body{
+    font-size: 30px;
+    font-weight: 700;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
-   
     background: url(./wallpaperflare.com_wallpaper\ \(1\).jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    color: #000;
+    -webkit-text-stroke: 2px white;
+}
+
+#board{
+    border: 8px inset #3db02f;
 }
